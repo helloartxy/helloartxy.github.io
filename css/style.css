@@ -200,6 +200,9 @@ a, a:hover, a:visited, a:active, a:link{
     .background-cross .cross2{
         display: none;
     }
+    .background-plus .plus2{
+        display: none;
+    }
     .background-stripes .stripes1{
         display: none;
     }
@@ -215,6 +218,9 @@ a, a:hover, a:visited, a:active, a:link{
     }
     .background-cross .cross2{
         display: block;
+    }
+    .background-plus .plus2{
+        display: none;
     }
     .background-stripes .stripes1{
         display: block;
